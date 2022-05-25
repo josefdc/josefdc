@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @josefdc
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning GoLang
+-
