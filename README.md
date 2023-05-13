@@ -17,7 +17,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=josefdc&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=josefdc&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josefdc&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 
