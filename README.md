@@ -1,9 +1,9 @@
-<!-- Banner image (optional) -->
-<!--
+
+<!-- Banner image -->
 <p align="center">
-  <img src="https://github.com/josefdc/josefdc/raw/main/banner.png" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/564da243-d2e2-4f8c-b984-12de9d383097" alt="Banner">
 </p>
--->
+
 
 # 💫 About Me:
 
