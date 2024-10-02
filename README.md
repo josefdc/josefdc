@@ -22,7 +22,7 @@
   <a href="https://reddit.com/user/PiDuart">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
   </a>
-  <a href="https://twitter.com/Felipedu09">
+  <a href="https://x.com/josefdc_">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
 </p>
