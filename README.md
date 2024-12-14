@@ -56,7 +56,10 @@ I am currently working as an AI engineer focused on building autonomous agents. 
 </p>
 
 ## 🐍 GitHub Snake
-![GitHub Snake Light](https://github.com/josefdc/josefdc/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/josefdc/josefdc/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
+</picture>
 
