@@ -14,7 +14,7 @@
   I am currently working as an AI engineer focused on building autonomous agents.  
   I love exploring cutting-edge machine learning techniques.
 </div>
-## 🌐 Socials:
+🌐 Socials:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josefeldc/">
